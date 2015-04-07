@@ -205,7 +205,8 @@ NEON 활성화: %2$s
 오디오 포맷: %5$s 
 프로세싱: %6$s 
 샘플 레이트: %7$d 
-한글화: 진간장 
+한글화: 진간장
+UI수정: PDL
 
 "</string>
     <string name="text_service_error">ViPER4Android 서비스에 연결할 수 없습니다. 드라이버 또는 백그라운드 서비스 프로세스를 로드할 수 없습니다.</string>
