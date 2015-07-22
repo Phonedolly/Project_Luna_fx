@@ -17,7 +17,7 @@
     <string name="pref_effect_title">효과 강도 선택</string>
     <string name="dialog_effect">효과 강도</string>
     <string name="pref_force_enable_text">V4A 강제 적용</string>
-    <string name="pref_force_enable_warn">"강제 적용을 사용하면 효과가 적용되지 않는 문제를 해결할 수 있지만, 일부 롬에서는 소리가 나지 않거나 배터리 누수같은 예상치 못한 결과를 얻을 수 있습니다. 유사 현상 발생시 이 기능을 해제하시기 바랍니다."</string>
+    <string name="pref_force_enable_warn">"강제 적용을 사용하면 효과가 적용되지 않는 문제를 해결할 수 있지만, 일부 롬에서는 소리가 나지 않거나 배터리 누수같은 예상치 못한 결과를 얻을 수 있습니다. 문제가 발생하면 이 기능을 해제하세요."</string>
     <string name="pref_fx_master_title">마스터 스위치 - 헤드셋</string>
     <string name="pref_fx_master_summary_on">V4A-FX 켜짐</string>
     <string name="pref_fx_master_summary_off">V4A-FX 꺼짐</string>
@@ -51,7 +51,7 @@
     <string name="pref_viperddc_device">청음기기</string>
     <string name="pref_viperddc_device_manufacturer">제조사 선택</string>
     <string name="pref_viperddc_device_model">모델 선택</string>
-    <string name="pref_viperddc_tips">"참고: ViPER-DDC는 헤드폰 보정을 위한 리얼 하이파이 오디오 프로세서입니다. 현재 약 500종의 헤드폰을 지원하며 계속해서 더 많은 기기를 지원할 것입니다. 찾는 헤드폰이 목록에 없다면 새롭게 추가되기 전까지 이 기능은 비활성화해 주십시오."</string>
+    <string name="pref_viperddc_tips">"참고: ViPER-DDC는 헤드폰 보정을 위한 리얼 하이파이 오디오 프로세서입니다. 현재 약 500종의 헤드폰을 지원하며 계속해서 더 많은 기기를 지원할 것입니다. 찾는 헤드폰이 목록에 없다면 새롭게 추가되기 전까지 이 기능은 비활성화해 주세요."</string>
     <string name="pref_vse_title">스펙트럼 확산</string>
     <string name="pref_vse_summary_on">스펙트럼 확산 켜짐</string>
     <string name="pref_vse_summary_off">스펙트럼 확산 꺼짐</string>
